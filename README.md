@@ -19,11 +19,11 @@
 - Certain players can bypass the Falling Apples, Falling Apples won't drop on them
 - **Bypassed players will still take damage if hit by the Falling Apple**
 
-# Special Item - Falling Apple:
+## Special Item - Falling Apple:
 - The Falling Apple is a special item with display name "§6Falling Apple"
 - Players who are hit by the apple will get the Falling Apple, and eating it may have a **75% chance** to trigger the BadApple effect
 
-# Commands:
+## Commands:
 `/fallingapples bypass <player>` - Add a player to the bypass list
 - Permission: fallingapples.cmd
 
