@@ -9,11 +9,12 @@
 - **BadApple** is a special event
 - Players who eat a Falling Apple, may have a **75% chance** to trigger the **BadApple** effect
 - The **BadApple** effect lasts 10 seconds and applies the following negative status effects to the player:
-    - *Mining Fatigue*
-    - *Nausea*
-    - *Slowness*
-    - *Blindness*
-    - *Weakness*
+
+  - *Mining Fatigue*
+  - *Nausea*
+  - *Slowness*
+  - *Blindness*
+  - *Weakness*
 
 ## Bypass Mechanism:
 - Certain players can bypass the Falling Apples, Falling Apples won't drop on them
