@@ -66,11 +66,11 @@ public class AppleEvents implements Listener {
 
             if (random.nextDouble() < 0.75) {
                 player.sendMessage("§7Too bad, you ate a §cBad Apple");
-                player.addPotionEffect(new PotionEffect(PotionEffectType.MINING_FATIGUE, 200, 1)); // 挖掘疲勞 (10 秒)
-                player.addPotionEffect(new PotionEffect(PotionEffectType.NAUSEA, 200, 1)); // 噁心 (10 秒)
-                player.addPotionEffect(new PotionEffect(PotionEffectType.SLOWNESS, 200, 1)); // 緩慢 (10 秒)
-                player.addPotionEffect(new PotionEffect(PotionEffectType.BLINDNESS, 200, 1)); // 失明 (10 秒)
-                player.addPotionEffect(new PotionEffect(PotionEffectType.WEAKNESS, 200, 1)); // 虛弱 (10 秒)
+                player.addPotionEffect(new PotionEffect(PotionEffectType.MINING_FATIGUE, 200, 1)); // 挖掘疲勞 - mining_fatigue (10 秒)
+                player.addPotionEffect(new PotionEffect(PotionEffectType.NAUSEA, 200, 1)); // 噁心 - nausea (10 秒)
+                player.addPotionEffect(new PotionEffect(PotionEffectType.SLOWNESS, 200, 1)); // 緩慢 - slowness (10 秒)
+                player.addPotionEffect(new PotionEffect(PotionEffectType.BLINDNESS, 200, 1)); // 失明 - blindness (10 秒)
+                player.addPotionEffect(new PotionEffect(PotionEffectType.WEAKNESS, 200, 1)); // 虛弱 - weakness (10 秒)
             }
         }
     }
